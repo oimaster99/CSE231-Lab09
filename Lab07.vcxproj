@@ -153,10 +153,15 @@
   <ItemGroup>
     <ClInclude Include="acceleration.h" />
     <ClInclude Include="angle.h" />
+    <ClInclude Include="crewdragon.h" />
+    <ClInclude Include="dreamchaser.h" />
+    <ClInclude Include="gps.h" />
     <ClInclude Include="hubble.h" />
     <ClInclude Include="position.h" />
+    <ClInclude Include="projectile.h" />
     <ClInclude Include="spaceobject.h" />
     <ClInclude Include="sputnik.h" />
+    <ClInclude Include="starlink.h" />
     <ClInclude Include="test.h" />
     <ClInclude Include="testPosition.h" />
     <ClInclude Include="uiDraw.h" />

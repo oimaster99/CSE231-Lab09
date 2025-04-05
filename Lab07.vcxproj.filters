@@ -83,6 +83,21 @@
     <ClInclude Include="hubble.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="starlink.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="crewdragon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dreamchaser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="projectile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
