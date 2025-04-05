@@ -42,6 +42,9 @@
     <ClCompile Include="spaceobject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="satellite.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h">
@@ -72,6 +75,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="spaceobject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sputnik.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hubble.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

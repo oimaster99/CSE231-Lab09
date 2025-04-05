@@ -107,6 +107,8 @@ void drawCallback()
 
    // clear the space at the end
    ui.keyEvent();
+
+
 }
 
 /************************************************************************
